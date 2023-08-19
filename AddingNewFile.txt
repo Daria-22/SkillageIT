@@ -1,1 +1,3 @@
-This file was created for testing how new files is added in online Github
+This file was created for testing how new files is added in online Github.
+
+This text was added after "Edit" was clicked.
