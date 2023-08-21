@@ -1,0 +1,12 @@
+This is a list of basic requirements from our customer - "Talon Textiles"
+
+1. The new site design should be not very busy - lots of space and the feeling of air and space.
+
+2. The photos of pegs should be only with trademark of Talon textile on them. The initial photos are provided as example only.
+
+3. The new site has a functionality of an online shop: 
+
+Create new order > select the pegs > proceed to checkout
+
+Et cetera
+
